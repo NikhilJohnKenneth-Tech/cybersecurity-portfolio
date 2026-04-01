@@ -21,3 +21,8 @@ Understand the OSI model and how data flows through network layers.
 ## Next Steps
 - Study TCP/IP model
 - Map real-world example (browser request) to OSI layers
+
+## Professional Understanding
+
+-The OSI model is not just theoretical. It helps identify where communication breaks or where an attack occurs.
+-Each layer has specific responsibilities, and analyzing issues layer-by-layer improves troubleshooting and security analysis.
